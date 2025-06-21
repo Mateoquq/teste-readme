@@ -5,12 +5,16 @@
  *   [Vercel](https://agrinho-2025-puce.vercel.app/)
 
 ---
-![Foto do Projeto](agrinho2025.png)
+![Foto do Projeto](src/assets/images/banner1.jpeg)
 ## 🎯 Sobre o Projeto
 
-Este projeto foi desenvolvido para o **Concurso Agrinho 2025** com o objetivo de criar uma experiência interativa que ilustra a profunda e vital conexão entre o campo e a cidade. Através de elementos gráficos e interatividade, mostramos como esses dois ambientes se complementam, ressaltando a importância mútua para o desenvolvimento sustentável.
+Este projeto foi desenvolvido para o **Concurso Agrinho 2025**, com o tema **"Festejando Conexão Campo e Cidade"**. Ele 'e um site para o "1º Festival Gastronômico Sabores do Campo na Cidade", evento ficticio que visa celebrar a profunda e vital conexão entre o campo e a cidade através da culinária. O site oferece detalhes sobre a proposta do evento, os pratos típicos paranaenses que serão servidos, os chefs convidados, informações de localização e contato, e as regras do festival.
 
-🖥️ Construído em **JavaScript** utilizando a biblioteca **p5.js**, o projeto apresenta uma tela dinâmica com representações visuais da vida rural e urbana.
+
+🖥️ O desenvolvimento do site foi precedido por uma etapa de **prototipagem de design no Figma**, garantindo uma base visual sólida e coesa. O projeto foi construído primariamente com **HTML, CSS e JavaScript**, e adaptado para ser totalmente **responsivo**, proporcionando uma experiência de usuário otimizada em diversos dispositivos. Além disso, a página de atribuições demonstra um conhecimento adicional através da utilização do framework **Tailwind CSS**.
+
+O JavaScript neste projeto foi empregado unicamente para habilitar e otimizar recursos essenciais, como acessibilidade, a funcionalidade do cronômetro regressivo e a interatividade de botões. O uso estratégico dessas funcionalidades em JavaScript contribui diretamente para atender aos requisitos de **nível 4 de complexidade do código, usabilidade e originalidade**, conforme previstos no edital. Durante o processo de desenvolvimento, o design original do Figma foi adaptado e aprimorado com ideias que surgiram ao longo da implementação, resultando em um produto final robusto e dinâmico.
+
 
 ---
 
