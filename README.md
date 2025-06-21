@@ -25,7 +25,7 @@ O JavaScript aqui no projeto foi usado pra coisas super importantes: deixar o si
 
 * **Navegação Super Fácil:** Tem um menu lá em cima que te leva rapidinho pra todas as seções do site (`Início`, `Informações`, `Contato`). É só clicar e pronto!
 * **Menu de Acessibilidade Top:** Pensei em todo mundo! Dá pra aumentar ou diminuir a letra e mudar o contraste pra quem precisa. Me inspirei nas melhores práticas de acessibilidade na web pra fazer isso.
-* **Contador Regressivo Animado:** Tem uma contagem regressiva para o início do festival, e quando a gente simula o dia do evento, rola até uns efeitos visuais de fogos de artifício na tela! É muito maneiro!
+* **Contador Regressivo Animado:** Tem uma contagem regressiva para o início do festival, e quando a gente simula o dia do evento, rola até uns efeitos visuais acendo a fogueira do evento!
 * **Destaque Gastronômico de Tirar o Chapéu:** Apresentei uns pratos típicos do Paraná que são de dar água na boca, tipo "Barreado", "Vaca Atolada", "Carne de Onça", "Pão no Bafo", "Bolo de Pinhão" e "Doce de Pinhão". E o melhor: tem links pra receita de cada um!
 * **Informações Completas:** Criei seções dedicadas à proposta do festival, aos chefs convidados (que são uns feras!), ao local do evento com um mapa interativo pra ninguém se perder, e claro, às regras pra participar.
 * **Vídeo Sobre o Projeto:** Fiz um vídeo super bacana, que está na seção "Sobre Nós", onde eu explico tudo sobre o projeto e a ideia do festival. Dá pra entender tudo direitinho e ver a minha empolgação!
