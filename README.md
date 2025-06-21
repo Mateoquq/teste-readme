@@ -50,6 +50,6 @@ O JavaScript aqui no projeto foi usado pra coisas super importantes: deixar o si
 * **[Tailwind CSS](https://tailwindcss.com/):** Usei essa ferramenta lá na página de atribuições. É um jeito diferente de estilizar, e quis mostrar que consigo usar várias abordagens!
 
 ### Ferramentas de Design
-* **[Figma](https://www.figma.com/design/ONOYHXHdLYrN7vNat5Uqd2/Untitled?node-id=0-1&p=f):** Foi a plataforma onde eu criei e prototipei todo o design do site antes de começar a programar. É onde as ideias ganharam forma!
+* **[Figma](https://www.figma.com/design/ONOYHXHdLYrN7vNat5Uqd2/Untitled?node-id=0-1&p=f):** Aqui voce encontra o projeto, e a prototipagem do design do site antes de começar a programar. É onde as ideias ganharam forma!
 
 ### Estrutura do Projeto (Olha só como as pastas estão organizadas!)
