@@ -26,7 +26,7 @@ O JavaScript aqui no projeto foi usado pra coisas super importantes: deixar o si
 * **Navegação Super Fácil:** Tem um menu lá em cima que te leva rapidinho pra todas as seções do site (`Início`, `Informações`, `Contato`). É só clicar e pronto!
 * **Menu de Acessibilidade Top:** Pensei em todo mundo! Dá pra aumentar ou diminuir a letra e mudar o contraste pra quem precisa. Me inspirei nas melhores práticas de acessibilidade na web pra fazer isso.
 * **Contador Regressivo Animado:** Tem uma contagem regressiva para o início do festival, e quando a gente simula o dia do evento, rola até uns efeitos visuais acendo a fogueira do evento!
-* **Destaque Gastronômico de Tirar o Chapéu:** Apresentei uns pratos típicos do Paraná que são de dar água na boca, tipo "Barreado", "Vaca Atolada", "Carne de Onça", "Pão no Bafo", "Bolo de Pinhão" e "Doce de Pinhão". E o melhor: tem links pra receita de cada um!
+* **Destaque Gastronômico:** Apresentei uns pratos típicos do Paraná que são de dar água na boca, tipo "Barreado", "Vaca Atolada", "Carne de Onça", "Pão no Bafo", "Bolo de Pinhão" e "Doce de Pinhão". E o melhor: tem links pra receita de cada um!
 * **Informações Completas:** Criei seções dedicadas à proposta do festival, aos chefs convidados (que são uns feras!), ao local do evento com um mapa interativo pra ninguém se perder, e claro, às regras pra participar.
 * **Vídeo Sobre o Projeto:** Fiz um vídeo super bacana, que está na seção "Sobre Nós", onde eu explico tudo sobre o projeto e a ideia do festival. Dá pra entender tudo direitinho e ver a minha empolgação!
 * **Formulário de Contato:** Tem uma área pra vocês mandarem mensagens! **Importante:** ele não é funcional de verdade (não envia as mensagens para um e-mail, por exemplo) porque não coloquei recursos de backend, já que isso não era o foco da avaliação do concurso. Mas o design tá lá!
@@ -50,6 +50,6 @@ O JavaScript aqui no projeto foi usado pra coisas super importantes: deixar o si
 * **[Tailwind CSS](https://tailwindcss.com/):** Usei essa ferramenta lá na página de atribuições. É um jeito diferente de estilizar, e quis mostrar que consigo usar várias abordagens!
 
 ### Ferramentas de Design
-* **[Figma](https://www.figma.com/):** Foi a plataforma onde eu criei e prototipei todo o design do site antes de começar a programar. É onde as ideias ganharam forma!
+* **[Figma](https://www.figma.com/design/ONOYHXHdLYrN7vNat5Uqd2/Untitled?node-id=0-1&p=f):** Foi a plataforma onde eu criei e prototipei todo o design do site antes de começar a programar. É onde as ideias ganharam forma!
 
 ### Estrutura do Projeto (Olha só como as pastas estão organizadas!)
