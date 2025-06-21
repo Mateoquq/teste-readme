@@ -1,163 +1,55 @@
 # 🌾 Projeto Agrinho 2025 - **"Festejando Conexão Campo e Cidade"** 🏙️
 
-## ▶️ Deploy / Como Executar o Projeto
- *   [GitHub Pages](https://mateoquq.github.io/agrinho-2025/)
- *   [Vercel](https://agrinho-2025-puce.vercel.app/)
+## ▶️ Pra Ver / Como Rodar o Projeto
+
+* **No seu navegador (online):**
+    * [No GitHub Pages](https://mateoquq.github.io/agrinho-2025/)
+    * [No Vercel](https://agrinho-2025-puce.vercel.app/)
+* **No seu computador:** É super fácil! É só baixar (clonar) este repositório e depois abrir o arquivo `index.html` no seu navegador favorito! 😉
 
 ---
-![Foto do Projeto](src/assets/images/banner1.jpeg)
+![Banner principal do festival, mostrando a união campo e cidade](src/assets/images/banner1.jpeg)
 ## 🎯 Sobre o Projeto
 
-Este projeto foi desenvolvido para o **Concurso Agrinho 2025**, com o tema **"Festejando Conexão Campo e Cidade"**. Ele 'e um site para o "1º Festival Gastronômico Sabores do Campo na Cidade", evento ficticio que visa celebrar a profunda e vital conexão entre o campo e a cidade através da culinária. O site oferece detalhes sobre a proposta do evento, os pratos típicos paranaenses que serão servidos, os chefs convidados, informações de localização e contato, e as regras do festival.
+E aí, galera! Preparem-se pra conhecer o projeto que eu fiz com muito carinho pro **Concurso Agrinho 2025**! O tema é **"Festejando Conexão Campo e Cidade"**, e minha ideia foi criar um site irado para um evento fictício: o "1º Festival Gastronômico Sabores do Campo na Cidade". A gente quer mostrar como o campo e a cidade se conectam de um jeito incrível através da comida! 😋
 
+No site, vocês vão encontrar todos os detalhes que imaginei pro festival: qual é a nossa proposta, quais pratos típicos paranaenses deliciosos seriam servidos, quem seriam os chefs convidados, onde o evento aconteceria (com mapa e tudo!), como entrar em contato e, claro, as regras pra todo mundo se divertir sem complicação.
 
-🖥️ O desenvolvimento do site foi precedido por uma etapa de **prototipagem de design no Figma**, garantindo uma base visual sólida e coesa. O projeto foi construído primariamente com **HTML, CSS e JavaScript**, e adaptado para ser totalmente **responsivo**, proporcionando uma experiência de usuário otimizada em diversos dispositivos. Além disso, a página de atribuições demonstra um conhecimento adicional através da utilização do framework **Tailwind CSS**.
+Antes de começar a codar, eu fiz todo o design do site no **Figma**. Pensei em cada detalhe, cada botão, cada cor, pra ter certeza que ia ficar tudo lindo e organizado. Depois dessa parte criativa, usei as linguagens que mais curto: **HTML, CSS e JavaScript** pra transformar o design em realidade! O site ficou totalmente **responsivo**, então dá pra navegar de boa tanto no celular quanto no computador. E pra mostrar que eu manjo de umas ferramentas a mais, na página de atribuições (que é onde eu dou os créditos), eu usei um framework chamado **Tailwind CSS**! Chique, né?
 
-O JavaScript neste projeto foi empregado unicamente para habilitar e otimizar recursos essenciais, como acessibilidade, a funcionalidade do cronômetro regressivo e a interatividade de botões. O uso estratégico dessas funcionalidades em JavaScript contribui diretamente para atender aos requisitos de **nível 4 de complexidade do código, usabilidade e originalidade**, conforme previstos no edital. Durante o processo de desenvolvimento, o design original do Figma foi adaptado e aprimorado com ideias que surgiram ao longo da implementação, resultando em um produto final robusto e dinâmico.
-
+O JavaScript aqui no projeto foi usado pra coisas super importantes: deixar o site mais acessível pra todo mundo (tipo aumentando a fonte), fazer aquele cronômetro de contagem regressiva e deixar os botões mais interativos. O uso estratégico dessas funcionalidades em JavaScript contribui diretamente para atender aos requisitos de **nível 4 de complexidade do código, usabilidade e originalidade**, conforme previstos no edital. E sabe o que é legal? Mesmo tendo o design prontinho no Figma, várias ideias novas foram surgindo enquanto eu desenvolvia, então fui adaptando e deixando o site ainda mais legal! O resultado final ficou incrível e cheio de energia!
 
 ---
 
 ## ✨ Pontos de Destaque
 
-- **Jogo da Memória Temático**  
-  Cada par encontrado revela uma conexão essencial entre campo e cidade, como "Alimento", "Água", "Energia", entre outros.
-
-- **Transições Suaves**  
-  Navegação fluida entre telas de introdução, instruções, jogo e finalização, proporcionando uma jornada agradável para o usuário.
-
-- **Efeitos Visuais Interativos**  
-  - *Títulos animados* com efeito de fade-in gradual para um toque profissional.  
-  - *Botões dinâmicos* que reagem ao mouse com efeitos visuais de "foguinhos" coloridos.  
-  - *Fogos de artifício* aparecem ao encontrar pares, reforçando a sensação de conquista.
-  -  *Sons* recursos sonoros durante o jogo e ativados com o clique
-
-- **Mensagem Final Impactante**  
-  Ao concluir o jogo, uma mensagem reflexiva reforça a importância da interdependência entre campo e cidade.
-
-- **Carregamento Dinâmico de Imagens**  
-  Utilização de template strings para carregar imagens das cartas, facilitando futuras expansões do jogo.
+* **Navegação Super Fácil:** Tem um menu lá em cima que te leva rapidinho pra todas as seções do site (`Início`, `Informações`, `Contato`). É só clicar e pronto!
+* **Menu de Acessibilidade Top:** Pensei em todo mundo! Dá pra aumentar ou diminuir a letra e mudar o contraste pra quem precisa. Me inspirei nas melhores práticas de acessibilidade na web pra fazer isso.
+* **Contador Regressivo Animado:** Tem uma contagem regressiva para o início do festival, e quando a gente simula o dia do evento, rola até uns efeitos visuais de fogos de artifício na tela! É muito maneiro!
+* **Destaque Gastronômico de Tirar o Chapéu:** Apresentei uns pratos típicos do Paraná que são de dar água na boca, tipo "Barreado", "Vaca Atolada", "Carne de Onça", "Pão no Bafo", "Bolo de Pinhão" e "Doce de Pinhão". E o melhor: tem links pra receita de cada um!
+* **Informações Completas:** Criei seções dedicadas à proposta do festival, aos chefs convidados (que são uns feras!), ao local do evento com um mapa interativo pra ninguém se perder, e claro, às regras pra participar.
+* **Vídeo Sobre o Projeto:** Fiz um vídeo super bacana, que está na seção "Sobre Nós", onde eu explico tudo sobre o projeto e a ideia do festival. Dá pra entender tudo direitinho e ver a minha empolgação!
+* **Formulário de Contato:** Tem uma área pra vocês mandarem mensagens! **Importante:** ele não é funcional de verdade (não envia as mensagens para um e-mail, por exemplo) porque não coloquei recursos de backend, já que isso não era o foco da avaliação do concurso. Mas o design tá lá!
+* **Estrutura de Arquivos e Pastas Organizada:** Meu código é super arrumadinho! Os arquivos CSS estão divididos em pastas como `base`, `componentes`, `layout` e `utilitarios`, e o `main.css` fica direto na pasta `css` principal. Os arquivos JavaScript estão na pasta `js`, e todas as imagens que usei estão na pasta `images`. Tudo isso dentro do diretório `src/assets`. Facinho de encontrar tudo!
 
 ---
 
 ## 🚀 Recursos Utilizados
 
-### Linguagem de Programação
-- **JavaScript:** A base de toda a lógica e interatividade do jogo.
-
-### Biblioteca
-- **p5.js:** Essencial para a criação gráfica, animações, manipulação de áudio e eventos do usuário.
-
-### Ambiente de Desenvolvimento
-- **p5.js Web Editor:** Ambiente online para codificação e prototipagem rápida.
-- **GitHub:** Utilizado para versionamento e hospedagem do código-fonte.
-
-### Funções e Conceitos do p5.js
-
-#### Estrutura Básica
-- `setup()`
-- `draw()`
-- `preload()`
-
-#### Desenho e Gráficos
-- `createCanvas()`
-- `rect()`
-- `circle()`
-- `image()`
-- `text()`
-- `fill()`
-- `stroke()`
-- Manipulação de cores
-
-#### Interatividade e Eventos
-- `mousePressed()`
-- `dist()`
-
-#### Animação e Matemática
-- `map()`
-- `lerp()`
-- `random()`
-- `constrain()`
-- `shuffle()`
-
-#### Vetores
-- `createVector()`
-- `p5.Vector` (para movimento e física das partículas)
-
-#### Mídia (Imagens e Sons)
-- `loadImage()`
-- `loadSound()`
-
-#### Controle de Áudio
-- `.play()`
-- `.setVolume()`
-- `.loop()`
-- `.pause()`
-- `.stop()`
-
-#### Manipulação de Tempo
-- `millis()` para controle de animações e transições
-- `setTimeout()` para atrasar ações no jogo (como a verificação de pares de cartas)
-
-#### Programação Orientada a Objetos (POO)
-- Uso de **classes** (`Carta`, `BotaoRedondo`, `Foguinho`) para modelar os elementos do jogo, encapsulando propriedades e comportamentos e promovendo a reutilização de código.
-
----
-## 📚 Links usados para consulta e aprofundamento:
-
-Para o desenvolimento do projeto e consulta de recursos foi utilizado:
-
-* **p5.js - Documentação Oficial:**
-    * [https://p5js.org/reference/](https://p5js.org/reference/)
-
-* **Mozilla Developer Network (MDN) - JavaScript:**
-    * [https://developer.mozilla.org/pt-BR/docs/Web/JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+### Linguagens
+* **HTML5:** A espinha dorsal do site, que estrutura todo o conteúdo.
+* **CSS3:** Pra deixar o site com um visual incrível e que se adapta a qualquer tamanho de tela (responsividade!).
+* **JavaScript:** A inteligência por trás da interatividade, como o menu de acessibilidade, o contador regressivo e a navegação fluida.
 
 ---
 
-🎵 **Atribuição de Imagens e Sons**  
-Durante o desenvolvimento deste projeto, foram utilizados recursos visuais e sonoros de fontes livres, seguindo as melhores práticas de atribuição.
+### Bibliotecas e Frameworks
+* **[Bootstrap 5.3.3](https://getbootstrap.com/docs/5.3/):** Usei essa biblioteca pra estilizar e montar uns componentes responsivos rapidinho (peguei ele direto da internet, via CDN).
+* **[Bootstrap Icons 1.11.3](https://icons.getbootstrap.com/):** Um conjunto de ícones super úteis que usei pra deixar a interface do usuário mais legal (também via CDN).
+* **[Font Awesome](https://fontawesome.com/):** Mais ícones! Usei eles no cabeçalho e no rodapé pra dar um toque a mais de profissionalismo e estilo.
+* **[Tailwind CSS](https://tailwindcss.com/):** Usei essa ferramenta lá na página de atribuições. É um jeito diferente de estilizar, e quis mostrar que consigo usar várias abordagens!
 
----
+### Ferramentas de Design
+* **[Figma](https://www.figma.com/):** Foi a plataforma onde eu criei e prototipei todo o design do site antes de começar a programar. É onde as ideias ganharam forma!
 
-🖼️ **Imagens:**
-
-Como o Markdown ignora target="_blank", use clique com a scroll do mouse para acessar os links em nova guia.
-
-| Nome/Descrição    | Fonte / Autor                                      | Licença               |
-|-------------------|---------------------------------------------------|-----------------------|
-| trigo-campo-campo-de-trigo-cevada      | [Pixabay](https://pixabay.com/pt/photos/trigo-campo-campo-de-trigo-cevada-2549245/)                   | Gratuita              |
-| pão-cozido-comida-fresquinhos      | [Pixabay](https://pixabay.com/pt/photos/p%C3%A3o-cozido-comida-fresquinhos-1281053/)                   | Gratuita              |
-| vaca-vaca-normal-vaca-de-leite       | [Pixabay](https://pixabay.com/pt/photos/vaca-vaca-normal-vaca-de-leite-7957275/)                   | Gratuita              |
-| vaca-leite-vaca-de-leite-branco       | [Pixabay](https://pixabay.com/pt/photos/vaca-leite-vaca-de-leite-branco-4909684/)                   | Gratuita              |
-| rio-outono-arvores-folhas-folhagem       | [Pixabay](https://pixabay.com/pt/photos/rio-outono-arvores-folhas-folhagem-219972/)                   | Gratuita              |
-| agua-gotas-respingo       | [Pixabay](https://pixabay.com/pt/photos/agua-gotas-respingo-got%C3%ADcula-4967843/)                   | Gratuita              |
-| madeira-pilha-troncos-de-árvore       | [Pixabay](https://pixabay.com/pt/photos/madeira-pilha-troncos-de-%C3%A1rvore-1868104/)                   | Gratuita              |
-| carpinteiro-avião-aparas-de-madeira       | [Pixabay](https://pixabay.com/pt/photos/carpinteiro-avi%C3%A3o-aparas-de-madeira-4015109/)                   | Gratuita              |
-| grãos-de-café-café-cafeína       | [Pixabay](https://pixabay.com/pt/photos/gr%C3%A3os-de-caf%C3%A9-caf%C3%A9-cafe%C3%ADna-7126154/)                   | Gratuita              |
-| café-café-moído-cafeteria       | [Pixabay](https://pixabay.com/pt/photos/caf%C3%A9-caf%C3%A9-mo%C3%ADdo-cafeteria-206142/)                   | Gratuita              |
-| energia-fluxo-agua       | [Pixabay](https://pixabay.com/pt/photos/energia-fluxo-agua-2976738/)                   | Gratuita              |
-| luminária-luz-mão-idéia-lâmpada       | [Pixabay](https://pixabay.com/pt/photos/lumin%C3%A1ria-luz-m%C3%A3o-id%C3%A9ia-l%C3%A2mpada-2663053/)                   | Gratuita              |
-| agricultor-agricultura-campos      | [Pixabay](https://pixabay.com/pt/photos/agricultor-agricultura-campos-8294716/)                   | Gratuita              |
-| Feira cidade       | [Google](https://images.app.goo.gl/e4cUGnKpVvGXcYWL9)                   | creative commons - Ramiro Furquim             |
-| abelhas-apicultura-apiário-colmeias       | [Pixabay](https://pixabay.com/pt/photos/abelhas-apicultura-api%C3%A1rio-colmeias-7170198/)                   | Gratuita              |
-| querida-amarelo-apicultor-natureza       | [Pixabay](https://pixabay.com/pt/photos/querida-amarelo-apicultor-natureza-1958464/)                   | Gratuita              |
-| zangão-vôo-câmera-controle-remoto       | [Pixabay](https://pixabay.com/pt/photos/zang%C3%A3o-v%C3%B4o-c%C3%A2mera-controle-remoto-1866742/)                   | Gratuita              |
-| Uma pessoa trabalhando em um equipamento em uma mesa       | [Unsplash](https://unsplash.com/pt-br/fotografias/uma-pessoa-trabalhando-em-um-equipamento-em-uma-mesa-3PJNIvkf-Tw)                   | Gratuita              |
-| a-criação-de-galinhas-poedeira       | [Pixabay](https://pixabay.com/pt/photos/a-cria%C3%A7%C3%A3o-de-galinhas-poedeiras-4133960/)                   | Gratuita              |
-| ovo-frito-frigideira-refeição-grade       | [Pixabay](https://pixabay.com/pt/photos/ovo-frito-frigideira-refei%C3%A7%C3%A3o-grade-3238173/)                   | Gratuita              |
-| imagem tela inicial - Gerado por IA - prompt: gostaria que gerrase uma imagem de fundo para meu projeto, com o tema festejando conexao campo cidade, precisa ter campo, cidade, ser uma imagem realista e que fique um contraste bom com as cores da tela inicial | [Gemini](https://gemini.google.com/?hl=pt-BR)                  | Imagem gerada por Gemini|
-
----
-
-🎶 **Sons:**
-
-| Nome/Descrição    | Fonte / Autor                                      | Licença               |
-|-------------------|---------------------------------------------------|-----------------------|
-| EDM Loop   | [Pixabay](https://pixabay.com/pt/sound-effects/edm-loop-319038/)               | gratuita      |
-| Winning Loop   | [Pixabay](https://pixabay.com/pt/sound-effects/winning-loop-228639/)               | gratuita      |
-| Traffic in City   | [Pixabay](https://pixabay.com/pt/sound-effects/traffic-in-city-309236/)               | gratuita      |
-| Passarinho   | [Pixabay](https://pixabay.com/pt/sound-effects/passarinho-325866/)               | gratuita      |
-
----
-
+### Estrutura do Projeto (Olha só como as pastas estão organizadas!)
